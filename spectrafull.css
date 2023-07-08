@@ -1569,11 +1569,11 @@
 
 .theme-dark {
     --header-primary: #ffe89b;
-    --text-normal: #efbe1c;
+    --text-normal: #ffffff;
     --background-primary: #1b2229;
     --background-secondary: #171D23;
     --background-tertiary: #13181d;
-    --text-muted: #c39a13;
+    --text-muted: #dbdbdb;
     --interactive-hover: #3e5165;
     --channels-default: #FDD651;
     --text-link: #ffd500;
